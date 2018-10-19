@@ -1,0 +1,164 @@
+,taxonid,Scientific.Name.with.Author,Common.Name,Genus,Family,jenkins_model
+1,ABBA,Abies balsamea (L.) Mill.,balsam fir,Abies,Pinaceae,fir/hemlock
+2,ACER,Acer L.,maple,Acer,Aceraceae,soft maple/birch
+3,ACNE2,Acer negundo L.,boxelder,Acer,Aceraceae,soft maple/birch
+4,ACPE,Acer pensylvanicum L.,striped maple,Acer,Aceraceae,soft maple/birch
+5,ACBA2,Acer barbatum Michx. p.p.,southern sugar maple,Acer,Aceraceae,soft maple/birch
+6,ACRU,Acer rubrum L.,red maple,Acer,Aceraceae,soft maple/birch
+9,ACRUR,Acer rubrum L. var. rubrum,red maple,Acer,Aceraceae,soft maple/birch
+14,ACSA2,Acer saccharinum L.,silver maple,Acer,Aceraceae,soft maple/birch
+16,ACSA3,Acer saccharum Marshall,sugar maple,Acer,Aceraceae,hard maple/oak/hickory/beech
+17,ACSAS,Acer saccharum ,sugar maple,Acer,Aceraceae,hard maple/oak/hickory/beech
+23,ACSP2,Acer spicatum Lam.,mountain maple,Acer,Aceraceae,soft maple/birch
+26,AEFL,Aesculus flava Aiton,yellow buckeye,Aesculus,Hippocastanaceae,mixed hardwood
+28,AEPA,Aesculus pavia L.,red buckeye,Aesculus,Hippocastanaceae,mixed hardwood
+34,ALINR,Alnus incana (L.) Moench ssp. rugosa (Du Roi) R.T. Clausen,speckled alder,Alnus,Betulaceae,aspen/alder/cottonwood/willow
+36,AMAR3,Amelanchier arborea (Michx. f.) Fernald,common serviceberry,Amelanchier,Rosaceae,woodland
+37,AMELA,Amelanchier Medik.,serviceberry,Amelanchier,Rosaceae,woodland
+39,AMLA,Amelanchier laevis Wiegand,Allegheny serviceberry,Amelanchier,Rosaceae,woodland
+44,AMSA,Amelanchier sanguinea (Pursh) DC.,roundleaf serviceberry,Amelanchier,Rosaceae,woodland
+45,ARSP2,Aralia spinosa L.,devil's walkingstick,Aralia,Araliaceae,mixed hardwood
+47,ASIN12,Asimina incana (W. Bartram) Exell,woolly pawpaw,Asimina,Annonaceae,mixed hardwood
+49,ASTR,Asimina triloba (L.) Dunal,pawpaw,Asimina,Annonaceae,mixed hardwood
+51,BEAL2,Betula alleghaniensis Britton,yellow birch,Betula,Betulaceae,soft maple/birch
+52,BELE,Betula lenta L.,sweet birch,Betula,Betulaceae,soft maple/birch
+53,BENI,Betula nigra L.,river birch,Betula,Betulaceae,soft maple/birch
+54,BEPA,Betula papyrifera Marshall,paper birch,Betula,Betulaceae,soft maple/birch
+56,BEPAC2,Betula papyrifera Marshall var. cordifolia (Regel) Fernald,mountain paper birch,Betula,Betulaceae,soft maple/birch
+61,BEPAP,Betula papyrifera Marshall var. papyrifera,paper birch,Betula,Betulaceae,soft maple/birch
+65,BEPO,Betula populifolia Marshall,gray birch,Betula,Betulaceae,soft maple/birch
+69,BETUL,Betula L.,birch,Betula,Betulaceae,soft maple/birch
+73,CAAM2,Callicarpa americana L.,American beautyberry,Callicarpa,Verbenaceae,woodland
+77,CAAQ2,Carya aquatica (Michx. f.) Nutt.,water hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+79,CACA18,Carpinus caroliniana Walter,American hornbeam,Carpinus,Betulaceae,mixed hardwood
+80,CACO15,Carya cordiformis (Wangenh.) K. Koch,bitternut hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+84,CADE12,Castanea dentata (Marshall) Borkh.,American chestnut,Castanea,Fagaceae,mixed hardwood
+85,CAFL22,Calycanthus floridus L.,eastern sweetshrub,Calycanthus,Calycanthaceae,woodland
+89,CAGL8,Carya glabra (Mill.) Sweet,pignut hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+103,CAOV2,Carya ovata (Mill.) K. Koch,shagbark hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+111,CAOV3,Carya ovalis (Wangenh.) Sarg.,red hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+118,CAPA24,Carya pallida (Ashe) Engl. & Graebn.,sand hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+122,CARYA,Carya Nutt.,hybrid hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+123,CATO6,Carya tomentosa (Lam.) Nutt.,mockernut hickory,Carya,Juglandaceae,hard maple/oak/hickory/beech
+129,CECA4,Cercis canadensis L.,eastern redbud,Cercis,Fabaceae,mixed hardwood
+130,CECAC,Cercis canadensis L. var. canadensis,eastern redbud,Cercis,Fabaceae,mixed hardwood
+132,CELA,Celtis laevigata Willd.,sugarberry,Celtis,Ulmaceae,mixed hardwood
+133,CELTI,Celtis L.,hackberry,Celtis,Ulmaceae,mixed hardwood
+135,CEOC,Celtis occidentalis L.,common hackberry,Celtis,Ulmaceae,mixed hardwood
+146,CLAC3,Clethra acuminata Michx.,mountain sweetpepperbush,Clethra,Clethraceae,woodland
+147,CLETH,Clethra L.,sweetpepperbush,Clethra,Clethraceae,woodland
+148,COAM2,Cornus amomum Mill.,silky dogwood,Cornus,Cornaceae,woodland
+153,COCO6,Corylus cornuta Marshall,beaked hazelnut,Corylus,Betulaceae,woodland
+154,COFL2,Cornus florida L.,flowering dogwood,Cornus,Cornaceae,mixed hardwood
+158,COFO,Cornus foemina Mill.,stiff dogwood,Cornus,Cornaceae,mixed hardwood
+168,CORNU,Cornus L.,dogwood,Cornus,Cornaceae,mixed hardwood
+169,CRATA,Crataegus L.,hawthorn,Crataegus,Rosaceae,woodland
+180,DIVI5,Diospyros virginiana L.,common persimmon,Diospyros,Ebenaceae,mixed hardwood
+185,ELUM,Elaeagnus umbellata Thunb.,autumn olive,Elaeagnus,Elaeagnaceae,woodland
+189,FAGR,Fagus grandifolia Ehrh.,American beech,Fagus,Fagaceae,hard maple/oak/hickory/beech
+196,FRAM2,Fraxinus americana L.,white ash,Fraxinus,Oleaceae,mixed hardwood
+198,FRAXI,Fraxinus L.,ash,Fraxinus,Oleaceae,mixed hardwood
+199,FRCA13,Frangula caroliniana (Walter) A. Gray,Carolina buckthorn,Frangula,Rhamnaceae,mixed hardwood
+202,FRNI,Fraxinus nigra Marshall,black ash,Fraxinus,Oleaceae,mixed hardwood
+206,FRPE,Fraxinus pennsylvanica Marshall,green ash,Fraxinus,Oleaceae,mixed hardwood
+212,GAUR,Gaylussacia ursina (M.A. Curtis) Torr. & A. Gray ex A. Gray,bear huckleberry,Gaylussacia,Ericaceae,woodland
+214,HADI3,Halesia diptera Ellis,two-wing silverbell,Halesia,Styracaceae,mixed hardwood
+216,HATE3,Halesia tetraptera Ellis,mountain silverbell,Halesia,Styracaceae,mixed hardwood
+228,ILEX,Ilex L.,holly,Ilex,Aquifoliaceae,pine
+229,ILMO,Ilex montana Torr. & A. Gray ex A. Gray,mountain holly,Ilex,Aquifoliaceae,pine
+235,ILMU,"Ilex mucronata (L.) Powell, Savolainen & Andrews",catberry,Ilex,Aquifoliaceae,pine
+237,ILOP,Ilex opaca Aiton,American holly,Ilex,Aquifoliaceae,pine
+244,ILVE,Ilex verticillata (L.) A. Gray,common winterberry,Ilex,Aquifoliaceae,pine
+245,ILVO,Ilex vomitoria Aiton,yaupon,Ilex,Aquifoliaceae,pine
+248,JUCI,Juglans cinerea L.,butternut,Juglans,Juglandaceae,mixed hardwood
+249,JUNI,Juglans nigra L.,black walnut,Juglans,Juglandaceae,mixed hardwood
+251,JUVI,Juniperus virginiana L.,eastern redcedar,Juniperus,Cupressaceae,cedar/larch
+253,KALA,Kalmia latifolia L.,mountain laurel,Kalmia,Ericaceae,woodland
+254,KALMI,Kalmia L.,laurel,Kalmia,Ericaceae,woodland
+256,LALA,Larix laricina (Du Roi) K. Koch,tamarack,Larix,Pinaceae,pine
+264,LIBE3,Lindera benzoin (L.) Blume,northern spicebush,Lindera,Lauraceae,woodland
+266,LIST2,Liquidambar styraciflua L.,sweetgum,Liquidambar,Hamamelidaceae,mixed hardwood
+267,LITU,Liriodendron tulipifera L.,tuliptree,Liriodendron,Magnoliaceae,mixed hardwood
+278,MAAC,Magnolia acuminata (L.) L.,cucumber tree,Magnolia,Magnoliaceae,mixed hardwood
+280,MAFR,Magnolia fraseri Walter,mountain magnolia,Magnolia,Magnoliaceae,mixed hardwood
+281,MAGNO,Magnolia L.,magnolia,Magnolia,Magnoliaceae,mixed hardwood
+282,MALUS,Malus Mill.,apple,Malus,Rosaceae,mixed hardwood
+283,MAMA2,Magnolia macrophylla Michx.,bigleaf magnolia,Magnolia,Magnoliaceae,mixed hardwood
+287,MATR,Magnolia tripetala (L.) L.,umbrella-tree,Magnolia,Magnoliaceae,mixed hardwood
+289,MAVI2,Magnolia virginiana L.,sweetbay,Magnolia,Magnoliaceae,mixed hardwood
+291,MEAZ,Melia azedarach L.,Chinaberrytree,Melia,Meliaceae,mixed hardwood
+293,MORU2,Morus rubra L.,red mulberry,Morus,Moraceae,mixed hardwood
+297,NYAQ2,Nyssa aquatica L.,water tupelo,Nyssa,Cornaceae,mixed hardwood
+300,NYSY,Nyssa sylvatica Marshall,blackgum,Nyssa,Cornaceae,mixed hardwood
+303,OSVI,Ostrya virginiana (Mill.) K. Koch,hophornbeam,Ostrya,Betulaceae,mixed hardwood
+305,OXAR,Oxydendrum arboreum (L.) DC.,sourwood,Oxydendrum,Ericaceae,mixed hardwood
+320,PATO2,Paulownia tomentosa (Thunb.) Siebold & Zucc. ex Steud.,princesstree,Paulownia,Scrophulariaceae,mixed hardwood
+325,PIAB,Picea abies (L.) Karst.,Norway spruce,Picea,Pinaceae,spruce
+327,PIEC2,Pinus echinata Mill.,shortleaf pine,Pinus,Pinaceae,pine
+328,PIGL,Picea glauca (Moench) Voss,white spruce,Picea,Pinaceae,spruce
+330,PIGL2,Pinus glabra Walter,spruce pine,Pinus,Pinaceae,pine
+331,PIMA,"Picea mariana (Mill.) Britton, Sterns & Poggenb.",black spruce,Picea,Pinaceae,spruce
+333,PINUS,Pinus L.,pine,Pinus,Pinaceae,pine
+334,PIPA2,Pinus palustris Mill.,longleaf pine,Pinus,Pinaceae,pine
+336,PIPU5,Pinus pungens Lamb.,Table Mountain pine,Pinus,Pinaceae,pine
+337,PIRE,Pinus resinosa Aiton,red pine,Pinus,Pinaceae,pine
+338,PIRI,Pinus rigida Mill.,pitch pine,Pinus,Pinaceae,pine
+340,PIRU,Picea rubens Sarg.,red spruce,Picea,Pinaceae,spruce
+342,PIST,Pinus strobus L.,eastern white pine,Pinus,Pinaceae,pine
+343,PITA,Pinus taeda L.,loblolly pine,Pinus,Pinaceae,pine
+344,PIVI2,Pinus virginiana Mill.,Virginia pine,Pinus,Pinaceae,pine
+346,PLOC,Platanus occidentalis L.,American sycamore,Platanus,Platanaceae,mixed hardwood
+349,POGR4,Populus grandidentata Michx.,bigtooth aspen,Populus,Salicaceae,aspen/alder/cottonwood/willow
+351,POTR4,Poncirus trifoliata (L.) Raf.,hardy orange,Poncirus,Rutaceae,mixed hardwood
+360,POTR5,Populus tremuloides Michx.,quaking aspen,Populus,Salicaceae,aspen/alder/cottonwood/willow
+366,PRAV,Prunus avium (L.) L.,sweet cherry,Prunus,Rosaceae,mixed hardwood
+371,PRSE2,Prunus serotina Ehrh.,black cherry,Prunus,Rosaceae,mixed hardwood
+372,PRUNU,Prunus L.,plum,Prunus,Rosaceae,mixed hardwood
+373,PRVI,Prunus virginiana L.,chokecherry,Prunus,Rosaceae,mixed hardwood
+377,QUAL,Quercus alba L.,white oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+378,QUBI,Quercus bicolor Willd.,swamp white oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+379,QUCO2,Quercus coccinea Münchh.,scarlet oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+380,QUERC,Quercus L.,oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+383,QUFA,Quercus falcata Michx.,southern red oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+384,QUGE2,Quercus geminata Small,sand live oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+387,QUHE2,Quercus hemisphaerica W. Bartram ex Willd.,Darlington oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+389,QULA2,Quercus laevis Walter,turkey oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+393,QULA3,Quercus laurifolia Michx.,laurel oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+395,QULY,Quercus lyrata Walter,overcup oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+396,QUMA3,Quercus marilandica Münchh.,blackjack oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+399,QUMI,Quercus michauxii Nutt.,swamp chestnut oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+400,QUMO4,Quercus montana Willd.,chestnut oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+402,QUNE,Quercus ×neopalmeri Sudw. ex Palmer,hybrid oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+403,QUNI,Quercus nigra L.,water oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+406,QUPA,Quercus ×palaeolithicola Trel.,hybrid oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+407,QUPA5,Quercus pagoda Raf.,cherrybark oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+411,QUPH,Quercus phellos L.,willow oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+412,QURU,Quercus rubra L.,northern red oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+413,QURUR,Quercus rubra L. var. rubra,northern red oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+418,QUST,Quercus stellata Wangenh.,post oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+420,QUVE,Quercus velutina Lam.,black oak,Quercus,Fagaceae,hard maple/oak/hickory/beech
+424,RHMA4,Rhododendron maximum L.,great laurel,Rhododendron,Ericaceae,woodland
+434,ROPS,Robinia pseudoacacia L.,black locust,Robinia,Fabaceae,mixed hardwood
+440,SAAL5,Sassafras albidum (Nutt.) Nees,sassafras,Sassafras,Lauraceae,mixed hardwood
+450,SALIX,Salix L.,willow,Salix,Salicaceae,mixed hardwood
+455,SAMI8,Sabal minor (Jacq.) Pers.,dwarf palmetto,Sabal,Arecaceae,woodland
+457,SANI4,Sambucus nigra L.,black elderberry,Sambucus,Caprifoliaceae,mixed hardwood
+462,SERE2,Serenoa repens (W. Bartram) Small,saw palmetto,Serenoa,Arecaceae,woodland
+468,SOAM3,Sorbus americana Marshall,American mountain ash,Sorbus,Rosaceae,mixed hardwood
+475,TADI2,Taxodium distichum (L.) Rich.,bald cypress,Taxodium,Cupressaceae,cedar/larch
+481,TIAM,Tilia americana L.,American basswood,Tilia,Tiliaceae,mixed hardwood
+485,TSCA,Tsuga canadensis (L.) Carrière,eastern hemlock,Tsuga,Pinaceae,fir/hemlock
+486,ULAL,Ulmus alata Michx.,winged elm,Ulmus,Ulmaceae,mixed hardwood
+487,ULAM,Ulmus americana L.,American elm,Ulmus,Ulmaceae,mixed hardwood
+490,ULMUS,Ulmus L.,elm,Ulmus,Ulmaceae,mixed hardwood
+491,ULRU,Ulmus rubra Muhl.,slippery elm,Ulmus,Ulmaceae,mixed hardwood
+496,VAAR,Vaccinium arboreum Marshall,farkleberry,Vaccinium,Ericaceae,woodland
+497,VACCI,Vaccinium L.,blueberry,Vaccinium,Ericaceae,woodland
+500,VACO,Vaccinium corymbosum L.,highbush blueberry,Vaccinium,Ericaceae,woodland
+541,VIAC,Viburnum acerifolium L.,mapleleaf viburnum,Viburnum,Caprifoliaceae,woodland
+544,VIBUR,Viburnum L.,viburnum,Viburnum,Caprifoliaceae,woodland
+547,VILA,Viburnum lantana L.,wayfaringtree,Viburnum,Caprifoliaceae,woodland
+550,VILA11,Viburnum lantanoides Michx.,hobblebush,Viburnum,Caprifoliaceae,woodland
+551,VINU,Viburnum nudum L.,possumhaw,Viburnum,Caprifoliaceae,woodland
+554,VIPR,Viburnum prunifolium L.,blackhaw,Viburnum,Caprifoliaceae,woodland
+999,2PLANT,,,,,mixed hardwood
