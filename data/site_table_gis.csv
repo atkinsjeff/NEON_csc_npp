@@ -1,0 +1,38 @@
+site_code,name,state,lat,long,Data Contact/Owner,Affiliation,Region,done,brady,nature
+DELA,Dead Lake,AL,32.541726,-87.803877,NEON,NEON,Ozarks,n,n,n
+TALL,Talladega NF*,AL,32.95047,-87.3932586,NEON,NEON,Ozarks,y,y,y
+LELA,Lenoir Landing*,AL,31.85388,-88.16122,NEON,NEON,Ozarks,n,n,n
+CEXF,Crosset Experimental Forest,AR,33.029,-91.937,,Ameriflux,Ozarks,n,n,n
+GRMF,Great Mountain Forest,CT,41.968,-73.225,,Ameriflux,Northeast,n,n,n
+ACSF,Austin-Cary State Forest,FL,30.4098,-81.5284,,Ameriflux,Southeast,n,n,n
+OSBS,Ordway-Swisher,FL,29.689282,-81.993431,NEON,NEON,Southeast,y,y,y
+MOMO,Morgan-Monroe ,IN,39.53,-86.43,,Ameriflux,Prairie,n,n,n
+HARV,"Harvard Forest LTER, MA, USA",MA,42.536911,-72.17265,NEON,NEON,Northeast,y,n,y
+SERC,Smithsonian Environmental Research Center,MD,38.89008,-76.56001,NEON,NEON,Mid-Atlantic,y,n,y
+HOWL,Howland Forest,ME,45.2,-68.6,,Ameriflux,Northeast,n,n,n
+BRPR,Big Reed Pond Preserve,ME,46.35,-69.05,,Other,Northeast,n,n,n
+UMBS,"University of Michigan Biological Station, MI, USA",MI,45.55865,-84.677598,,NEON,Great Lakes,y,n,n
+HMWF,"Huron Mountains, MI, USA",MI,46.87,-87.88,HMWF,HMC,Great Lakes,n,n,n
+PMSP,"Porcupine Mountains, MI, USA",MI,46.774,-89.7607,Lorimer,State Park,Great Lakes,n,n,n
+SRNA,"Sylvania, MI, USA",MI,46.21078,-89.29403,,Other,Great Lakes,n,n,n
+DEXF,Dukes Experimental Forest,MI,46.366,-87.133,,USFS,Great Lakes,n,n,n
+BWRA,Baskett Wildlife Res Area,MO,38.7,-92.18,,Ameriflux,Ozarks,n,n,n
+DUKE,"Duke Forest, NC, USA",NC,36.02,-78.983046,,Ameriflux,Mid-Atlantic,n,n,n
+BART,"Bartlett Experimental Forest, NH, USA",NH,44.063869,-71.287375,USFS,USFS,Northeast,n,n,y
+HBEF,"Hubbard Brook LTER, NH, USA",NH,44.0609,-71.6258,Battles,LTER,Northeast,n,n,n
+BOWL,The Bowl Research Natural Area,NH,43.907,-71.35,,Other,Northeast,n,n,n
+ARNO,Arnot Forest,NY,42.264225,-76.627579,,Other,Northeast,y,n,n
+OAOP,Oak Openings,OH,41.5517,-83.8526,,Ameriflux,Great Lakes,n,n,n
+SRNL,Aiken - Savannah River Nat Lab,SC,33.5,-81.7,,Ameriflux,Southeast,n,n,n
+ORNL,Oak Ridge,TN,35.964127,-84.28288,NEON,NEON,Appalchians,n,n,n
+GRSM,"Great Smoky Mountains, Twin Creeks",TN,35.68896,-83.50195,NEON,NEON,Appalchians,y,n,y
+SCBI,Smithsonian Conservation Biology Institute,VA,38.892925,-78.139494,NEON,NEON,Mid-Atlantic,y,y,y
+MLBS,Mountain Lake Biological Station,VA,37.378314,-80.524847,NEON,NEON,Appalchians,y,y,y
+VCR,Virginia Coastal Reserve,VA,37.469787,-75.8346,Young,LTER,Mid-Atlantic,n,n,n
+RICE,VCU Rice Rivers Center,VA,37.326,-77.2056,Gough,Other,Mid-Atlantic,y,n,n
+UVAX,Observatory Hill-UVA,VA,38.0328,-78.522286,Mixed hardwood,Other,Mid-Atlantic,y,n,n
+WILL,Willow Creek,WI,43.2,-88.1,,Ameriflux,Great Lakes,n,n,n
+UNDE,"U. of Notre Dame Env. Research Center, WI, USA",WI,46.23391,-89.537254,NEON,NEON,Great Lakes,y,y,y
+ARGO,Argonne Experimental Forest,WI,45.7545,-88.9694,,USFS,Great Lakes,n,n,n
+TREE,Treehaven*,WI,45.49373,-89.58572,NEON,NEON,Great Lakes,y,y,y
+FERN,Fernow Experimental Forest,WV,39.09,-79.663,,USFS,Northeast,y,n,n

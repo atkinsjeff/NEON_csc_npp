@@ -1,0 +1,11 @@
+Site,location,NEON domain type,dominant species,MAT,MAP
+"BART - Bartlett Experimental Forest, NH","44.05 N, -71.29 W",Northeast,"Fagus grandifolia, Tsuga canadensis",6.6,1270
+"GRSM - Great Smoky Mountains, TN","41.96 N, -73.23 W",Appalachian & Cumberland Plateau,"Liriodendron tulipifera, Acer spp.",13.3,1450
+"HARV - Harvard Forest, MA","42.53 N, -72.17 W",Northeast,Tsuga canadensis,8.2,1100
+"MLBS - Mountain Lake Biological Station, VA","37.37 N, -80.52 W",Appalachian & Cumberland Plateau,Quercus spp.,7.8,1250
+"OSBS - Ordway-Swisher Biological Station, FL","29.68 N, -81.99 W",Southeast,Pinus palustris,20,1300
+SCBI - Smithsonian Conservation Biological Institute,"38.89 N, -78.14 W",Mid-Atlantic,"Quercus spp., Carya spp.",12.5,1050
+"SERC - Smithsonian Environmental Research Center, MD","38.88 N, -76.54 W",Mid-Atlantic,Quercus spp.,15,1200
+"TALL - Talladega National Forest, AL","32.95 N, -76.56 W",Ozarks Complex,"Pinus palustris, Quercus spp.",17,1400
+"TREE - Treehaven, WI","45.49 N, -89.58 W",Great Lakes,"Picea mariana, Larix laricina",5.4,800
+"UNDE - University of Notre Dame Envinromental Research Center, WI/MI","46.23 N, -86.54 W",Great Lakes,Acer saccaharum Betula spp.,4.5,800
