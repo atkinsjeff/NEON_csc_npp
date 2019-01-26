@@ -200,7 +200,7 @@ plot.npp$npp <- plot.npp$npp * 12.5
 # change to Mg per hectare
 plot.npp$npp <- plot.npp$npp * 0.001
 
-
+#write.csv(plot.npp, "neon_plot_npp.csv")
 
 ### bring in canopy structural complexity data
 neon.csc <- read.csv("./data/laserquest_pcl_transects_for_neon_2018.csv")
