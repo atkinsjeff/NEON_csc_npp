@@ -384,7 +384,7 @@ ggplot(site.diversity, aes(x = genus.rich, y = rugosity, color = siteid))+
 
 
 #####
-write.csv(site.diversity, "neon_site_diversity.csv")
+write.csv(site.diversity, "./summary/neon_site_diversity.csv")
 
 
 #################### bayesian change point detection
