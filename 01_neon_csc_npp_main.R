@@ -18,6 +18,13 @@ x16 %>%
 # add year
 n.16$year <- 2016
 
+# n.16 %>%
+#   filter(plotid == "BART_032") -> jeff.16
+# 
+# n.17 %>%
+#   filter(plotid == "BART_032") -> jeff.17
+
+
 
 n.17pt1 <- read.csv("./data/apparentindividual_fulcrum_2017_1st7sites.csv")
 n.17pt2 <- read.csv("./data/apparentindividual_fulcrum_2017_2nd7sites.csv")
